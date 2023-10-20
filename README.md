@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working at **TD Wealth**
 
-- 🌱 I’m currently learning **Pytorch and Tensor-flow**
+- 🌱 I’m currently learning **MLOps**
 
 - 👯 I’m looking to collaborate on **AI and ML Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ernie2506](https://github.com/ernie2506)
 
-- 💬 Ping me about **AI, ML, Python, Deep learning, NLP**
+- 💬 Ping me about **AI, ML, Python, Deep learning, NLP, LLM**
 
 - 📫 How to reach me **20lch@queensu.ca**
 
